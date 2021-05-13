@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GameDex</string>
+    <string name="nama_game">Nama Game</string>
+    <string name="publisher">Publisher :</string>
+    <string name="home">Home (Card View)</string>
+    <string name="about">About</string>
+    <string name="home_grid_view">Home (Grid View)</string>
+    <string name="judul_game">Judul Game</string>
+    <string name="deskripsi_game">Deskripsi Game</string>
+    <string name="publisher_drunken">Publisher : Drunken</string>
+    <string name="share">Share</string>
+    <string name="like">Like</string>
+    <string name="my_name">Ibrahim Sambata Sarborn</string>
+    <string name="my_email">tosaritonosambataheri@gmail.com</string>
+    <string name="title_activity_splash_screen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
